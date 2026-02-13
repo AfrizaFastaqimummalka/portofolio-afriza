@@ -1,0 +1,81 @@
+{
+  "profile": {
+    "name": "Afriza Fastaqimummalka",
+    "role": "Beginner Software Developer",
+    "tagline": "Crafting digital experiences with creative solutions",
+    "about": "Beginner developer with experience in building simple web and desktop applications. I focus on creating functional and user-friendly solutions while learning best practices in programming. I enjoy problem solving and improving my skills step by step.",
+    "email": "afrizafasta43@gmail.com",
+    "phone": "+6282126539759",
+    "github": "https://github.com/AfrizaFastaqimummalka",
+    "linkedin": "www.linkedin.com/in/afriza-fasta-9b2ba228a",
+    "cv_url": "assets/cv.pdf"
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["HTML5", "CSS3", "JavaScript"]
+    },
+    {
+      "category": "Backend",
+      "items": ["PHP", "Node.js", "Python", "MySQL"]
+    },
+    {
+      "category": "Tools & Others",
+      "items": ["Git", "VS Code","Visual Basic", "Linux"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Clinic Management System",
+      "description": "Aplikasi klinik berbasis Visual Basic dengan database terintegrasi untuk pendaftaran pasien, pencatatan kunjungan, dan pengelolaan rekam medis secara cepat, rapi, dan akurat.",
+      "technologies": ["Visual Basic", "MySQL"],
+      "demo_url": "",
+      "github_url": "https://github.com/AfrizaFastaqimummalka/KLINIKSEDERHANA",
+      "screenshots": [
+        "assets/images/kliniklogin.png",
+        "assets/images/klinikhome.png",
+        "assets/images/klinikdaf.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pharmacy Management System",
+      "description": "Aplikasi apotek berbasis Visual Basic dengan database SQL untuk mengelola data obat, menambah dan melihat stok, serta memastikan pembaruan stok otomatis agar pengelolaan apotek lebih cepat dan akurat.",
+      "technologies": ["Visual Basic", "MySQL"],
+      "demo_url": "",
+      "github_url": "https://github.com/AfrizaFastaqimummalka/Apotek",
+      "screenshots": [
+        "assets/images/apoteklogin.png",
+        "assets/images/apotekloginn.png",
+        "assets/images/apotekhome.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "E-Commerce Xiaomi Store",
+      "description": "Platform e-commerce Xiaomi Store yang menyediakan fitur manajemen produk, keranjang belanja, dan proses checkout lengkap dengan pengisian data pembeli (nama, nomor telepon, alamat, dan metode pembayaran). Sistem ini memudahkan pelanggan dalam berbelanja serta membantu admin dalam mengelola produk dan pesanan secara efisien.",
+      "technologies": ["PHP", "MySQL", "CSS"],
+      "demo_url": "",
+      "github_url": "https://github.com/AfrizaFastaqimummalka/UAS-WEB---Xiaomi-Store",
+      "screenshots": [
+        "assets/images/storehom.png",
+        "assets/images/storeproduc.png",
+        "assets/images/storece.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Clinic Web Service",
+      "description": "Platform web service klinik yang terintegrasi dengan database untuk mengelola pendaftaran pasien, data kunjungan, rekam medis, dan layanan homecare secara terpusat. Sistem ini mendukung proses pencatatan yang cepat, aman, dan akurat, serta membantu admin dan tenaga medis dalam mengelola data klinik secara efisien dan terstruktur.",
+      "technologies": ["PHP", "MySQL", "CSS"],
+      "demo_url": "",
+      "github_url": "https://github.com/AfrizaFastaqimummalka",
+      "screenshots": [
+       "assets/images/web1.png",
+        "assets/images/web2.png",
+        "assets/images/web3.png"
+      ]
+    }
+  ]
+}
